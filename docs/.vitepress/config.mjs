@@ -16,10 +16,8 @@ export default defineConfig({
       {
         text: '林修竹作品集',
         items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'test', link: '/encryption' },
-          { text: 'helloworld', link: '一年级/100-helloworld' },
+          { text: '0300-猜猜他是谁', link: '/encryption' },
+          { text: '0301-美丽的西湖', link: '3-grade03/0300-helloworld' },
 
         ]
       }
