@@ -18,7 +18,8 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' },
-          { text: 'test', link: '/encryption' }
+          { text: 'test', link: '/encryption' },
+          { text: 'helloworld', link: '一年级/100-helloworld' },
 
         ]
       }
