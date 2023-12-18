@@ -15,10 +15,10 @@ hero:
       link: https://github.com/0xlinxiuzhu/collection
 
 features:
-  - title: Feature A
-    details: 文章本天成，妙手偶得之
-  - title: Feature B
-    details: 笔落惊风雨,诗成泣鬼神
+  - title: 文章本天成，妙手偶得之
+    details: 陆游
+  - title: 笔落惊风雨，诗成泣鬼神
+    details: 杜甫
   #- title: Feature C
   #  details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---

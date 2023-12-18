@@ -9,7 +9,7 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About Me', link: 'https://0xlinxiuzhu.github.io/linxiuzhu' }
+      { text: 'About Me', link: 'https://0xlinxiuzhu.github.io/0xlinxiuzhu' }
     ],
 
     sidebar: [
