@@ -18,6 +18,8 @@ export default defineConfig({
         items: [
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'test', link: '/2023-12-15 PGP encryption' }
+
         ]
       }
     ],
