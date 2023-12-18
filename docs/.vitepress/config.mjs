@@ -24,7 +24,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://0xlinxiuzhu.github.io' }
+      { icon: 'github', link: 'https://github.com/0xlinxiuzhu/collection' }
     ]
   }
 })
