@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "小小的我"
+  text: ""
+  tagline: 林修竹作品集
   actions:
     - theme: brand
-      text: Markdown Examples
+      text: Start
       link: /markdown-examples
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: View On Github
+      link: https://0xlinxiuzhu.github.io/collection/
 
 features:
   - title: Feature A

@@ -13,3 +13,4 @@ modification date: 2023-12-15 09:31
 gpg -ac --cipher-algo aes256 filename
 input passphrase
 gpg -d  filename.asc
+
