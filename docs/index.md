@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "小小的我"
   text: ""
-  tagline: 林修竹作品集
+  tagline: 林修竹作文集
   actions:
     - theme: brand
       text: Start
