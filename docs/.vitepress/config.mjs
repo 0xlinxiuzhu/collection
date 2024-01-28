@@ -16,10 +16,10 @@ export default defineConfig({
       {
         text: '林修竹作品集',
         items: [
-          { text: '0300-猜猜他是谁', link: '3-grade03/0300-猜猜她是谁' },
-          { text: '0301-日记',      link: '3-grade03/0301-日记' },
-          { text: '0302-大象来帮忙', link: '3-grade03/0302-大象来帮忙' },
-          { text: '0303-美丽的西湖', link: '3-grade03/0303-美丽的西湖' },
+          { text: '0300-猜猜他是谁', link: '/3-grade03/0300-猜猜她是谁' },
+          { text: '0301-日记',      link: '/3-grade03/0301-日记' },
+          { text: '0302-大象来帮忙', link: '/3-grade03/0302-大象来帮忙' },
+          { text: '0303-美丽的西湖', link: '/3-grade03/0303-美丽的西湖' },
 
         ]
       }
